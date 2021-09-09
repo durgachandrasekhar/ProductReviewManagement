@@ -1,0 +1,14 @@
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.exe
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.deps.json
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.dll
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.pdb
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.dll
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.pdb
+C:\Users\SHIVA KUMAR\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.genruntimeconfig.cache
